@@ -34,7 +34,7 @@ LibraryManagementSystem/
    cd library-management-system
 ## Sample Output:
 
-![image alt](
+![image alt](https://github.com/vedant1352/Library-Managememnt-System/blob/1c30e34c80a8dfef24df1e97ad6dcdceb7ae768c/Screenshot%202025-06-26%20160030.png)
 ![image alt](
 ![image alt](
 
